@@ -5,7 +5,7 @@
 * [Course Page](https://discovery.cs.illinois.edu/microproject/)
 * [GitHub Repository for MicroProjects](https://github.com/dsdiscovery/microprojects)
 
-## My Projects
+## My Progress
 
 | Project Title                                        | Progress                                                                      |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------- |
