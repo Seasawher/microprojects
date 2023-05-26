@@ -20,6 +20,6 @@
 | Bechdel Test                                         |                                                                               |
 | DataFrame of Your NWS Weather Forecast               |                                                                               |
 | Highest Mountains in the World                       |                                                                               |
-| United States Congress                               |                                                                               |
+| United States Congress                               | [done](./microproject-us-congress/microproject-us-congress.ipynb)             |
 | Valentine's Day                                      | [done](./09-microproject-valentines-day/09-microproject-valentines-day.ipynb) |
 | FIFA World Cup                                       | [done](./08-microproject-FIFA-world-cup/08-microproject-FIFA-world-cup.ipynb) |
